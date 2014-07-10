@@ -1,0 +1,105 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -350px;
+  margin-left: -500px;
+}
+
+#container {
+	width: 1000px;
+	height: 600px;
+}
+
+#logo {
+	margin-bottom:20px;
+}
+
+.period {
+	margin-left: 13px;
+	margin-right: 13px;
+}
+
+#nav {
+	margin-top: 150px;
+}
+
+#titles {
+	margin-top: 70px;
+}
+
+#nametag {
+	margin-top: 50px;
+}
+
+#animator {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.content {
+	height: 300px
+}
+
+#portfolio, #aboutme, #contact, #vids {
+	display: none;
+}
+
+.thumbnail {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+}
+
+.thumbs img {
+	margin: 3px;
+}
+
+#aboutme img {
+    float: left;
+	padding-left:200px;
+	margin-right:20px;
+}
+
+#abouttext {
+	margin-left: 15px;
+}
+
+#aboutme {
+    text-align: left;
+}
+
+A{text-decoration:none
+}
+
+#aboutme >div {
+padding-right: 200px;
+}
+
+#aboutme
+{
+text-align:justify;
+text-justify:inter-word;
+}
+
+#contactinfo {
+	padding-top:100px;
+}
+
+#things {
+	padding-top:50px;
+}
+
+.cornerright {
+  position: absolute;
+	bottom: 1em;
+	right: 1em;
+	left: 1em;
+}
